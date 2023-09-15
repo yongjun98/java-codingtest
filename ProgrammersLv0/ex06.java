@@ -17,6 +17,6 @@ public class ex06 {
         }
         return answer;
     }
-    
+
 
 }
